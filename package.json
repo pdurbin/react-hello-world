@@ -2,6 +2,9 @@
   "name": "react-hello-world",
   "version": "1.0.0",
   "description": "React hello world example based on react-hot-boilerplate",
+  "scripts": {
+    "start": "node server.js"
+  },
   "devDependencies": {
     "jsx-loader": "^0.12.2",
     "react-hot-loader": "^1.1.1",
